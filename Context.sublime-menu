@@ -1,0 +1,17 @@
+[
+  {
+    "id": "some tools",
+    "caption": "木༻哈༻哈༻",
+    "children":
+    [
+        {
+            "caption" : "Open in PHP Manual",
+            "command" : "open_web_manual"
+        },
+        {
+            "caption" : "Baidu Translate",
+            "command" : "open_web_trans"
+        }
+    ]
+  }
+]

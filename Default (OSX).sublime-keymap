@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+3"], "command": "indent_section", "args": { "snap_direction": -2 } },
+    { "keys": ["super+4"], "command": "indent_section", "args": { "snap_direction":  2 } }
+]
